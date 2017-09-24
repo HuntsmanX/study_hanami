@@ -1,4 +1,0 @@
-project=bookshelf
-architecture=container
-test=minitest
-template=erb

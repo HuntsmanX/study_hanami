@@ -1,5 +1,4 @@
 .idea
-.hanamirc
 /db/*.sqlite
 /public/assets*
 /tmp
